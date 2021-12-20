@@ -1,0 +1,9 @@
+1.	Judul                     : Algoritma menampilkan bilangan ganjil dari 1 – 9
+Deklarasi             : x : integer
+Deskripsi             :
+write(“Bilangan Ganjil”)
+for x = 1 to 9 do
+if  x mod 2 = 1 then
+write (x)
+endif
+endfor

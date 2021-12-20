@@ -1,0 +1,12 @@
+2.	Judul	:  Algoritma Menentukan Deret Bilangan Fibonacci
+Deklarasi	: i, n, fibonacci(i): integer
+Deskripsi	:
+input n
+if i=0 atau i=1 then
+cetak “fibonacci(i)=i”
+else
+while i>1 dan i≤n do
+fibonacci(i)=fibonacci(i-1)+fibonacci(i-2)
+cetak fibonacci(i)
+i=i+1
+end
