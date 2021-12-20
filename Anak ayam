@@ -1,0 +1,14 @@
+3.	Judul		: Algoritma anak ayam
+
+Deklarasi	: x,y : Integer
+
+Deskripsi	: 
+
+read(x)
+
+write(‘Anak ayam turun’, n)
+	For y		x downto 2 do
+		Write (‘Anak ayam turun’,i , ‘mati satu tinggal’, i-1)
+Write (‘Anak ayam turun 1 mati satu tinggal induknya’)
+
+End
